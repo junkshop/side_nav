@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Sofia-Pro';
+    src: url('sofia-pro.woff2') format('woff2'); /* Super Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sofia-Pro-Bold';
+    src: url('sofia-pro-bold.woff2') format('woff2'); /* Super Modern Browsers */
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sailec-Light';
+    src: url('sailec-light.woff2') format('woff2'); /* Super Modern Browsers */
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Sailec-Bold';
+    src: url('sailec-bold.woff2') format('woff2'); /* Super Modern Browsers */
+    font-weight: bold;
+    font-style: normal;
+}
